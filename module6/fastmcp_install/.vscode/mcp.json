@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "AnswerServer": {
+      "type": "stdio",
+      "command": "python",
+      "args": [
+        "C:\\Code\\MCP\\Examples\\class\\module6\\fastmcp_install\\server.py"
+      ]
+    }
+  }
+}
