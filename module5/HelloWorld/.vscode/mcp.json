@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "hello": {
+      "command": "python",
+      "args": ["server.py"]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "math-tools": {
+      "type": "stdio",
+      "command": "python",
+      "args": [
+        "C:\\Code\\MCP\\Examples\\class\\labs\\lab5\\server.py"
+      ]
+    }
+  }
+}

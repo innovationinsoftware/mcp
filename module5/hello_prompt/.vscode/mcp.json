@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "helloPrompt": {
+      "command": "python",
+      "args": ["server.py"]
+    }
+  }
+}
